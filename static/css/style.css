@@ -1,0 +1,153 @@
+.banner-div{
+    float: left;
+    width: 100%;
+}
+
+.banner-div img{
+    float: left;
+    width: 100%;
+}
+
+.main-left{
+    float : left;
+    width: 30%;
+    margin: 5% 0% 0% 15%;
+}
+
+.main-right{
+    float: right;
+    width: 40%;
+    margin: 4% 0% 0% 5%;
+    
+}
+
+.main-left img, .main-right img{
+    float: left;
+    width: 100%;
+    
+}
+
+.main-right h1{
+    font-family: "Rubik Doodle Shadow", system-ui;
+    font-weight: 400px;
+    font-style: normal;
+    
+}
+
+.gallery-div{
+    float: left;
+    width: 100%;
+}
+
+.gallery-div img{
+    float: left;
+    width: 20%;
+    height: 250px;
+}
+
+.gallery-div p{
+    
+    font-family: "Rubik Doodle Shadow", system-ui;
+    font-weight: 800px;
+    font-size: 30px;
+    text-align: center;
+    margin: 10% 0% 0% 0%;
+}
+
+.volunteer-div{
+    float: left;
+    width: 100%;
+}
+
+.volunteer-left{
+    float: left;
+    width: 30%;
+    margin: 8% 0% 10% 13%;
+    
+}
+
+.volunteer-left img{
+    float: left;
+    width: 100%;
+    height: 500px;
+}
+.volunteer-right{
+    float: right;
+    width: 35%;
+    
+    margin: 10% 6% 5% 0%;
+}
+.volunteer-right p{
+    float: left;
+    width: 100%;
+   font-size: 15px;
+    
+}
+
+
+.info-div{
+    float: left;
+    width: 100%;
+    background-color: rgb(70, 67, 67);
+    padding: 3% 0% 3% 0%;
+}
+
+.details{
+    float: left;
+    width: 23%;
+    color: aliceblue;
+    border: 2px solid aliceblue;
+    margin: 0% 0% 0% 8%;
+    height: 250px;
+}
+
+.details option{
+    background-color: black;
+    color: aliceblue;
+}
+
+.details h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+.details p{
+    text-align: left;
+    font-size: 20px;
+    margin: 0% 0% 0% 17%;
+}
+
+.details input, .details select{
+    float: left;
+    width: 80%;
+    font-size: 25px;
+    margin: 3% 0% 0% 5%;
+    padding: 1% 0% 1% 0%;
+    background-color: transparent;
+    color: aliceblue;
+    border: 1px solid aliceblue;
+}
+
+.details button{
+    float: left;
+    width: 40%;
+    font-size: 25px;
+    margin: 3% 0% 0% 5%;
+}
+
+.footer-div{
+    float: left;
+    width: 100%;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
